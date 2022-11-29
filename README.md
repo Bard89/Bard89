@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🔥 [Got your first Dev job? Cognitive overload and how to avoid doing the same mistakes](https://cowberry.hashnode.dev/got-your-first-dev-job-cognitive-overload-and-how-to-avoid-doing-the-same-mistakes)<!-- BLOGPOSTS:END -->
