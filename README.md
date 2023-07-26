@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Navigating the Infinite Jest](https://cowberry.hashnode.dev/navigating-the-infinite-jest)
+ - 🔥 [Navigating the Infinite Jest: Twitter&lpar;X&rpar; Garbage Collection system for Personal Growth](https://cowberry.hashnode.dev/navigating-the-infinite-jest-twitterx-garbage-collection-system-for-personal-growth)
  - 🚀 [Got your first Dev job? Cognitive overload and how to avoid doing the same mistakes](https://cowberry.hashnode.dev/got-your-first-dev-job-cognitive-overload-and-how-to-avoid-doing-the-same-mistakes)<!-- BLOGPOSTS:END -->
