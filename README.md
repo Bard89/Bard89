@@ -1,7 +1,6 @@
 <!--
 **Bard89/Bard89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Some of my articles:
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  -  [Navigating the Infinite Jest: Twitter&lpar;X&rpar; Garbage Collection system for Personal Growth](https://cowberry.hashnode.dev/navigating-the-infinite-jest-twitterx-garbage-collection-system-for-personal-growth)
