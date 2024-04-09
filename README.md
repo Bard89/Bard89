@@ -4,7 +4,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-#### Recent Blog Posts
+#### My articles
 <!-- BLOGPOSTS:START -->
  - [Navigating the Infinite Jest: Twitter&lpar;X&rpar; Garbage Collection system for Personal Growth](https://cowberry.hashnode.dev/navigating-the-infinite-jest-twitterx-garbage-collection-system-for-personal-growth)
  - [Got your first Dev job? Cognitive overload and how to avoid doing the same mistakes](https://cowberry.hashnode.dev/got-your-first-dev-job-cognitive-overload-and-how-to-avoid-doing-the-same-mistakes)<!-- BLOGPOSTS:END -->
