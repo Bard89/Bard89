@@ -1,4 +1,4 @@
-name: Hashnode Blog Posts
+name: Hashnode blog bosts
 on:
   schedule:
     # Runs every 6 hours of the day
