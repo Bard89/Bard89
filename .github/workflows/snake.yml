@@ -1,11 +1,11 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-name: generate snake animation
+name: Snake animation eating commits
 
 on:
-  # run automatically every 24 hours
+  # run automatically every 6 hours
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */6 * * *"
 
   # allows to manually run the job at any time
   workflow_dispatch:
